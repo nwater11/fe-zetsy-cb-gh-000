@@ -67,6 +67,7 @@ img, video, audio {
 }
 
 .footer {
+	font-size: 0.5em
 	margin-top: 20px;
 	text-align: right;
 }
