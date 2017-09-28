@@ -24,7 +24,7 @@ body {
 }
 
 [class*="col-"] {
-  margin-left: 2%;
+  margin-left: 1%;
 }
 
 .clearfix:after {
