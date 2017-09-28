@@ -17,4 +17,10 @@ body {
 	padding: 0 45px 20px;
 }
 
+.col-1 {
+  float: left;
+  width: 32%;
+  background: #ccc;
+}
+
 /* Write all remaining styles here */
