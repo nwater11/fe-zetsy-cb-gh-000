@@ -42,4 +42,10 @@ body {
   box-sizing: border-box;
 }
 
+section {
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+
 /* Write all remaining styles here */
