@@ -23,6 +23,10 @@ body {
   background: #ccc;
 }
 
+[class*="col-"] {
+  margin-left: 2%;
+}
+
 .clearfix:after {
   content: ".";
   display: block;
