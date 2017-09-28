@@ -10,6 +10,11 @@ body {
 	font-family: 'Times New Roman', serif;
 }
 
+h1, h2 {
+	font-family: fonts/Baskerville.ttc;
+	
+}
+
 
 .wrapper {
 	width: 960px;
