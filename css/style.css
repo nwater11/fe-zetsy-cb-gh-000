@@ -42,10 +42,7 @@ body {
   box-sizing: border-box;
 }
 
-section {
-  padding: 20px;
-  margin-bottom: 20px;
-}
+
 
 /* Media */
 img, video, audio {
