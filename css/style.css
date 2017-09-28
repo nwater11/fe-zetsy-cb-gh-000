@@ -61,6 +61,11 @@ img, video, audio {
   max-width: 100%;
 }
 
+.footer {
+	position: relative;
+	right: 0;
+}
+
 
 
 
