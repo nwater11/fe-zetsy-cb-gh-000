@@ -17,6 +17,21 @@ body {
 	padding: 0 45px 20px;
 }
 
+#details a:link, #details a:visited {
+  color: black;
+  text-decoration: none;
+}
+
+#details a:hover {
+  color: black;
+  text-decoration: underline;
+}
+
+#details a:active {
+  color: black;
+	text-underline-position: below;
+}
+
 .col-1 {
   float: left;
   width: 24%;
