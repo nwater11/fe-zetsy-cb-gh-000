@@ -82,9 +82,7 @@ header a:hover {
 	border: 5px rgb(111,127,122) solid;
 }
 /* Media */
-img, video, audio {
-  max-width: 100%;
-}
+
 
 footer {
 	text-align: right;
