@@ -86,11 +86,9 @@ img, video, audio {
   max-width: 100%;
 }
 
-.footer {
-	font-size: 0.75em;
-	margin-top: 20px;
+footer {
 	text-align: right;
-	color: #666;
+	background: #fff;
 }
 
 
