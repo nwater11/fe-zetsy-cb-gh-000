@@ -12,9 +12,9 @@ body {
 
 @font-face {
 	font-family: Baskerville;
-	src="fonts/Baskerville.ttc";
+	src=url(fonts/Baskerville.ttc);
 
-} 
+}
 
 .wrapper {
 	width: 960px;
