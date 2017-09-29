@@ -24,12 +24,11 @@ body {
 }
 
 #about a:link, #about a:visited {
-  color: black;
+  color: #1783bb;
   text-decoration: none;
 }
 
 #about a:hover {
-  color: black;
   text-decoration: underline;
 }
 
